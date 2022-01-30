@@ -1,0 +1,3 @@
+/home/siroga/Рабочий стол/Sockets/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/siroga/Рабочий стол/Sockets/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/siroga/Рабочий стол/Sockets/cmake-build-debug/CMakeFiles/Sockets.dir
